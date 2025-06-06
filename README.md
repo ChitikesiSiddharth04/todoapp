@@ -1,5 +1,3 @@
-
-````
 # TODOAPP
 
 > Effortlessly conquer your tasks, achieve your goals.
@@ -72,7 +70,7 @@ Ensure you have the following tools installed:
 ```bash
 git clone https://github.com/ChitikesiSiddharth04/todoapp
 cd todoapp
-````
+
 
 #### Install dependencies:
 
