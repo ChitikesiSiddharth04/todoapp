@@ -1,6 +1,3 @@
-Here’s a professional and structured `README.md` for your **todoapp** GitHub repository, formatted in Markdown:
-
----
 
 ````markdown
 # TODOAPP
